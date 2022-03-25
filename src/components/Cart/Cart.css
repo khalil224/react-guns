@@ -1,0 +1,22 @@
+*{
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+}
+body{
+    font-family: "Roboto", sans-serif;
+}
+.cart-grid{
+    display: grid;
+    grid-template-columns: repeat(auto-fit,minmax(350px,1fr));
+  margin: 50px 0;
+  gap: 50px;
+  line-height: 25px;
+}
+.cart img{
+    height: 300px;
+    width: 300px;
+}
+.cart-warning{
+    height: 85%;
+}

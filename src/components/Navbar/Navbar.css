@@ -1,0 +1,16 @@
+.navbar{
+    background-color: #1C2B35;
+    /* width: 1440px; */
+    height: 80px;
+    color: white;
+    display: flex;
+    align-items: center;
+    
+    justify-content: space-between; 
+   /* margin-left: 10px;
+   margin-right: 10px; */
+   padding: 0 50px ;
+}
+.sup{
+color:red;
+}
